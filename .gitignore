@@ -1,0 +1,5 @@
+.DS_Store
+.git
+checkpoints/weight.pth
+__pycache__
+.vscode/
