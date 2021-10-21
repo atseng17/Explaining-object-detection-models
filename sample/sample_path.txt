@@ -1,0 +1,10 @@
+sample/images/RGB_AOI_2_Vegas_img5009.jpg
+sample/images/RGB_AOI_2_Vegas_img5716.jpg
+sample/images/RGB_AOI_2_Vegas_img3733.jpg
+sample/images/RGB_AOI_2_Vegas_img2895.jpg
+sample/images/RGB_AOI_2_Vegas_img3863.jpg
+sample/images/RGB_AOI_2_Vegas_img96.jpg
+sample/images/RGB_AOI_2_Vegas_img1177.jpg
+sample/images/RGB_AOI_2_Vegas_img3448.jpg
+sample/images/RGB_AOI_2_Vegas_img6102.jpg
+sample/images/RGB_AOI_2_Vegas_img392.jpg
