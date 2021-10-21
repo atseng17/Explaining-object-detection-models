@@ -10,7 +10,7 @@ This repo aims to use adverserial attacks[1] to explain the outcomes of a yolov3
 conda env create -f exp_obj.yml
 
 # run demo on jupyter notebook
-jupyter notebook
+python explain_obj_det
 ```
 
 <a id="1">[1]</a> 
